@@ -1,0 +1,23 @@
+C:\Users\fonerka\Desktop\Armoury Crate\bin\Debug\net6.0-windows\Armoury Crate.exe
+C:\Users\fonerka\Desktop\Armoury Crate\bin\Debug\net6.0-windows\Armoury Crate.deps.json
+C:\Users\fonerka\Desktop\Armoury Crate\bin\Debug\net6.0-windows\Armoury Crate.runtimeconfig.json
+C:\Users\fonerka\Desktop\Armoury Crate\bin\Debug\net6.0-windows\Armoury Crate.dll
+C:\Users\fonerka\Desktop\Armoury Crate\bin\Debug\net6.0-windows\Armoury Crate.pdb
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.csproj.AssemblyReference.cache
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate_MarkupCompile.cache
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate_MarkupCompile.lref
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.g.resources
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.AssemblyInfoInputs.cache
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.AssemblyInfo.cs
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.csproj.CoreCompileInputs.cache
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.dll
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\refint\Armoury Crate.dll
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.pdb
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Armoury Crate.genruntimeconfig.cache
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\ref\Armoury Crate.dll
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\Style\NavButtonStyle.baml
+C:\Users\fonerka\Desktop\Armoury Crate\obj\Debug\net6.0-windows\App.baml
